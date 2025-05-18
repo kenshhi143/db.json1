@@ -4,7 +4,7 @@ Postman - валидация get,post,del req.
 [REST API basics- CRUD, test & variable.postman_collection.json](https://github.com/user-attachments/files/20274348/REST.API.basics-.CRUD.test.variable.postman_collection.json)
 Авто тест
 Установка 
-``bash
+bash
 pip install requests pytest
 import requests
 
