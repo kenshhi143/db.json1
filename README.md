@@ -1,6 +1,11 @@
-1:
+Тестирование фейк API с помощью postman n pytest
+Postman - валидация get,post,del req.
+Автотест: создание,удаление,изменение тестов
 [REST API basics- CRUD, test & variable.postman_collection.json](https://github.com/user-attachments/files/20274348/REST.API.basics-.CRUD.test.variable.postman_collection.json)
-авто тест
+Авто тест
+Установка 
+``bash
+pip install requests pytest
 import requests
 
 BASE_URL = "https://jsonplaceholder.typicode.com/posts"
